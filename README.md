@@ -28,10 +28,10 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 - Compared customer spending patterns
 
 ## Key Findings
-Add verified findings from your notebook here.
+Analysed historical online retail transactions.
+Identified repeat customers and one-time customers.
+Examined monthly invoice trends and customer spending patterns.
 
-## Recommendations
-Add practical recommendations supported by your results.
 
 ## Limitations
 The dataset covers a historical period. Transaction records
